@@ -1,198 +1,214 @@
-<div align="center">
+<img src="https://repository-images.githubusercontent.com/386498762/21f00b10-142f-44c7-b73e-aef620ab0281" height="100%" width="100%"/>
 
-<img src="assets/hero.svg" alt="DAVID // 1337 — full stack developer, security researcher, infrastructure engineer. Status: online." width="100%"/>
+<h3 align="center">
+Building Software, Securing Systems & Creating Digital Products
+</h3>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Ethical+Hacker;Software+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Web+Applications;Designing+Modern+Digital+Products;Exploring+Cybersecurity;Turning+Ideas+Into+Production+Software+🚀" />
+</p>
 
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=david1337x&style=for-the-badge&color=00E5FF&label=VISITORS"/>
-</div>
-
-<br>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ---
 
-## `01 // BOOT`
+# 🌐 Connect With Me
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1900&pause=700&color=8B949E&center=true&vCenter=true&width=900&height=90&lines=%5B00%3A00%3A01%5D+Initializing+developer+environment...;%5B00%3A00%3A02%5D+Loading+security+modules...;%5B00%3A00%3A03%5D+Connecting+to+infrastructure...;%5B00%3A00%3A04%5D+Mounting+project+database...;%5B00%3A00%3A05%5D+Establishing+secure+channel...;%5B00%3A00%3A06%5D+System+ready." alt="Terminal boot sequence"/>
-</div>
+<p align="center">
 
----
-
-## `02 // WHOAMI`
-
-```bash
-$ whoami
-david
-
-$ cat profile.conf
-ROLE="Full Stack Web Developer"
-SECURITY="Ethical Hacker"
-SYSTEMS="Software Developer"
-INFRASTRUCTURE="Bot Infrastructure Engineer"
-
-$ systemctl status david
-● david.service — Developer Operating System
-   Loaded: active
-   Status: operational
-```
-
-> I build software, investigate how systems fail, automate the repetitive parts, and turn complicated ideas into infrastructure that survives outside `localhost`.
-
----
-
-## `03 // CAPABILITIES`
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,bash" />
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,redux,threejs" />
-
-**BACKEND**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet,graphql" />
-
-**DATABASE / CLOUD / INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,docker,nginx,aws,cloudflare,vercel" />
-
-**SYSTEMS / SECURITY / TOOLING**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github,gitlab,selenium,raspberrypi,arduino" />
-
-| DOMAIN | APPROACH |
-|:--|:--|
-| `WEB` | Interfaces that feel fast, deliberate, and alive |
-| `BACKEND` | APIs and services designed around actual workflows |
-| `SECURITY` | Understand how systems fail before hardening them |
-| `AUTOMATION` | Eliminate repetitive human work |
-| `INFRASTRUCTURE` | Make software survive outside localhost |
-| `AI` | Use models as components inside real systems |
-
----
-
-## `04 // SYSTEM ARCHITECTURE`
-
-<div align="center">
-<img src="assets/architecture.svg" alt="Engineering process: idea leads to architecture, then build, which splits into secure and automate, converging on deploy." width="100%"/>
-</div>
-
----
-
-## `05 // ACTIVE PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**NEXORA · E-COMMERCE**
-`TypeScript`
-
-Storefront build focused on product browsing, cart flow, and checkout UX.
-
-[`→ repo`](https://github.com/david1337x/Nexora-Ecommerce)
-
-</td>
-<td width="50%" valign="top">
-
-**GLASS CALCULATOR**
-`TypeScript / React`
-
-A sleek, animated calculator with a glassmorphic UI and smooth interaction states.
-
-[`→ repo`](https://github.com/david1337x/Glass-Calculator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**WEATHER CHECK**
-`JavaScript`
-
-Live weather lookup with a clean, minimal interface.
-
-[`→ repo`](https://github.com/david1337x/Weather-Check)
-
-</td>
-<td width="50%" valign="top">
-
-**VELOURA CAFÉ**
-`TypeScript`
-
-Café/restaurant concept site — brand-driven landing experience.
-
-[`→ repo`](https://github.com/david1337x/Veloura-Cafe)
-
-</td>
-</tr>
-</table>
-
-**Freelance / client infrastructure:** `RECOVERIFY` — digital recovery and marketplace infrastructure · `NORTH INDIA FRIENDS` — non-profit digital infrastructure.
-
-<div align="center">
-
-<a href="https://dav1337.com">
-<img src="https://img.shields.io/badge/DAV1337.COM-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050505"/>
+<a href="https://github.com/david1337x">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</div>
+<a href="https://x.com/Dav1dnShepherd">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://www.linkedin.com/in/dav1337/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://dav1337.com">
+<img src="https://skillicons.dev/icons?i=htmx" />
+</a>
+
+</p>
 
 ---
 
-## `06 // TELEMETRY`
+## 🚀 About Me
 
-<div align="center">
+I'm a developer focused on building modern software, scalable web applications, automation systems and security-oriented technology.
 
-<img src="https://github-readme-stats.vercel.app/api?username=david1337x&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david1337x&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" height="170"/>
+My work spans:
 
-<br>
+* 🌐 Full-Stack Web Development
+* 🛡️ Ethical Hacking & Cybersecurity
+* 🤖 Artificial Intelligence & Automation
+* ⚡ JavaScript / React Development
+* 🐍 Python Development
+* ☕ Java Development
+* 📱 Application Development
+* ☁️ Cloud & Infrastructure
+* 🔗 API & Backend Architecture
+* 🚀 Digital Product Engineering
 
-<img src="https://streak-stats.demolab.com?user=david1337x&theme=dark&hide_border=true&background=050505&stroke=00E5FF&ring=00E5FF&fire=FFB000&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777" width="65%"/>
+I enjoy taking an idea from an initial concept to a working production system — designing the interface, building the backend, connecting the infrastructure and making the whole thing actually work.
+
+```yaml
+Name: David
+Username: david1337x
+Location: India 🇮🇳
+
+Roles:
+  - Full Stack Developer
+  - Software Developer
+  - Ethical Hacker
+
+Focus:
+  - Web Development
+  - Cybersecurity
+  - Artificial Intelligence
+  - Automation
+  - Backend Systems
+  - Cloud Infrastructure
+  - Digital Products
+
+Languages:
+  - JavaScript
+  - Python
+  - Java
+  - HTML
+  - CSS
+
+Website:
+  - dav1337.com
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=david1337x&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=david1337x&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</p>
+
+---
+
+# ⚡ Tech Arsenal
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=Cloudflare\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge\&logo=android\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+
+---
+
+# 🛠️ What I Build
+
+| Area             | What I Work On                                                         |
+| ---------------- | ---------------------------------------------------------------------- |
+| `WEB`            | Modern interfaces, responsive applications and interactive experiences |
+| `BACKEND`        | APIs, authentication, databases and production services                |
+| `SECURITY`       | Ethical hacking, security research and system hardening                |
+| `AUTOMATION`     | Bots, scripts and systems that eliminate repetitive work               |
+| `AI`             | AI-powered applications and intelligent automation                     |
+| `INFRASTRUCTURE` | Deployment, cloud services and production environments                 |
+| `MOBILE`         | Android applications and device-focused systems                        |
+
+---
+
+# 🚀 Featured Projects
+
+### 🔐 Recoverify
+
+Digital recovery and marketplace infrastructure designed around account/device recovery workflows.
+
+### 🛰️ Sentinel
+
+A device recovery and tracking system combining Android, location services, encrypted storage and backend infrastructure.
+
+### 🌐 North India Friends
+
+Digital infrastructure for a nonprofit organization working across North India.
+
+### 🛒 Nexora
+
+Modern e-commerce application focused on responsive product browsing and digital shopping experiences.
+
+### 🧮 Glass Calculator
+
+Animated React calculator with a modern glassmorphic interface and smooth interaction states.
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=david1337x&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+# ✍️ Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while (alive) {
+    learn();
+    build();
+    break_things();
+    fix_them();
+    improve();
+    repeat();
+}
+```
+
+---
+
+<p align="center">
+
+<b>Building systems, breaking assumptions, and shipping software.</b>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=david1337x&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&radius=12" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=david1337x&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-</div>
-
----
-
-## `07 // CONTRIBUTION MATRIX`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/david1337x/david1337x/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%"/>
-</div>
-
-<details>
-<summary><code>10 // ACHIEVEMENTS</code></summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=david1337x&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%"/>
-</div>
-</details>
-
----
-
-## `08 // TRANSMISSION`
-
-<div align="center">
-
-**BUILD SOMETHING WORTH BREAKING.**
-
-<a href="https://github.com/david1337x"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=050505"/></a>
-<a href="https://x.com/Dav1dnShepherd"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=050505"/></a>
-<a href="https://dav1337.com"><img src="https://img.shields.io/badge/DAV1337.COM-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050505"/></a>
-
-<br><br>
-
-<sub>SYSTEM STATUS: ONLINE · SIGNAL: STABLE · CHANNEL: OPEN</sub>
-
-</div>
+</p>
