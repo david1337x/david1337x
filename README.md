@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/386498762/21f00b10-142f-44c7-b73e-aef620ab0281" height="100%" width="100%"/>
+<img src="https://repository-images.githubusercontent.com/1169232495/ee6cee0c-8fe4-494c-aadf-687755621d94" height="100%" width="100%"/>
 
 <h3 align="center">
 Building Software, Securing Systems & Creating Digital Products
